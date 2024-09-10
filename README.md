@@ -15,6 +15,7 @@ $ pip3 freeze
 
 
 # 3. Crear el archivo requirements.txt
+Crear el archivo requirements.txt con todas las librerias a utilizar
 
 $ pip3 freeze > requirements.txt
 
