@@ -2,7 +2,7 @@
 
 Repositorio de prueba para utilizarlo con Docker | Este repositorio tiene una página web sencilla desarrollada con web.py
 
-1. Instalar paquetes
+# 1. Instalar paquetes
 Para instalar 1 paquete en python3 se ejecuta el siguiente comando:
 
 $ pip3 install web.py
