@@ -5,12 +5,14 @@ Repositorio de prueba para utilizarlo con Docker | Este repositorio tiene una p�
 # 1. Instalar paquetes
 Para instalar 1 paquete en python3 se ejecuta el siguiente comando:
 
-´´´pip3 install web.py
+'''pip3 install web.py
+'''
 
 # 2. Visualizar lista de paqutes
 Para visualizar la lista de paquete instalados se ejecuta el siguiente comando:
 
-pip3 freeze
+```pip3 freeze
+```
 
 # 3. Crear el archivo requirements.txt
 Crear el archivo requirements.txt con todas las librerias a utilizar.
