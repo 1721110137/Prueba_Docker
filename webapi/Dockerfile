@@ -4,7 +4,7 @@ FROM ubuntu:22.04
 
 # Actualizar la lista de actualizaciones
 
-RUN  apy-get update
+RUN  apt-get update
 
 # Actualizar la imagen
 
